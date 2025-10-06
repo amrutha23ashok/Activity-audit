@@ -1,5 +1,5 @@
 # EX - 4 Auditing Cloud Activity Using AWS CloudTrail
-
+amrutha sa (212222110004)
 ## Aim
 
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
